@@ -55,6 +55,8 @@ The medium for skill is a lot more than the one for line.
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+  
+we can see from the numerical results as well that the medium of skill is by far higher than the one for line.  
 
 ## Inferential Results
 
